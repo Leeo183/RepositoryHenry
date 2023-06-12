@@ -1,2 +1,1 @@
-# RepositoryHenry
-Esto es una prueba de el primer repositorio de henry modulo 2 :D
+Este es un proyecto de como crear un repositorio y clonarlo desde github a mi escritorio local
